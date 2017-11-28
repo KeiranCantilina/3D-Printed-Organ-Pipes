@@ -1,0 +1,1 @@
+for %%f in (*.scad) do openscad -o %%~nf.stl %%f
